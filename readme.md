@@ -1,6 +1,6 @@
 # 🚀 landing page website
 
-🔗**DEMO** [visit](link)
+🔗**DEMO** [visit](https://kmqe.github.io/landing-page-website/)
 
 ## 📋 Overview
 
